@@ -22,3 +22,5 @@ The dataset consists of historical Nasdaq 100 prices sourced from Yahoo Finance.
 
 ## Results & Visualizations
 The project includes visual graphs that compare actual prices with the predicted prices from each model. The key objective is to highlight which model (ARIMA, LSTM, RF, XGBoost) produces the most accurate forecasts based on metrics like RMSE and R-squared.
+# Work flow
+![Image description](Img/House_Prediction_workflow.png)
